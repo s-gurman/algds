@@ -19,3 +19,14 @@ This repository is intended for educational purposes only.
 | Selection sort | Array          | $$O(n^2)$$          | $$O(n^2)$$          |
 | Quick sort     | Array          | $$O(n\cdot\log n)$$ | $$O(n^2)$$          |
 | Merge sort     | Array          | $$O(n\cdot\log n)$$ | $$O(n\cdot\log n)$$ |
+
+## Data structures
+
+| Name        | Search        | Insert        | Delete        | Space    |
+|:------------|:-------------:|:-------------:|:-------------:|:--------:|
+| Linked List | $$O(n)$$      | $$O(1)$$      | $$O(1)$$      | $$O(n)$$ |
+| Stack       | -             | $$O(1)$$      | $$O(1)$$      | $$O(n)$$ |
+| Queue       | -             | $$O(1)$$      | $$O(1)$$      | $$O(n)$$ |
+| Hash Table  | $$O(1)$$      | $$O(1)$$      | $$O(1)$$      | $$O(n)$$ |
+| Binary Tree | $$O(\log n)$$ | $$O(\log n)$$ | $$O(\log n)$$ | $$O(n)$$ |
+| Binary Heap | $$O(n)$$      | $$O(\log n)$$ | $$O(\log n)$$ | $$O(n)$$ |
